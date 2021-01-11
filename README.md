@@ -1,3 +1,3 @@
 # ibadah
-website GIS openlayer-point tempat ibadah
-Upload Gambar, Maks 2mb. jika lebih dari 2mb, maka akan batal.
+website tempat ibadah 
+Upload Gambar maks 2Mb, jika lebih dari itu maka akan batal
